@@ -16,3 +16,12 @@ Event Tracker: Showcases recent and upcoming workshops with status indicators (e
 Interactive Stats: Highlighting labs, projects, and patent counts.
 
 Tailwind Powered: Rapidly styled using Utility-first CSS for maximum performance and easy maintenance.
+
+🛠️ Tech Stack
+Frontend: HTML5, Tailwind CSS (via CDN)
+
+Typography: Google Fonts (Roboto)
+
+AI Integration: Google Generative AI (Gemini API)
+
+Animations: Custom CSS Keyframes & Tailwind Transitions
